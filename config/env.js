@@ -15,4 +15,5 @@ export const {
     QSTASH_TOKEN,
     SERVER_URL,
     EMAIL_PASSWORD,
+    EMAIL,
 } = process.env
